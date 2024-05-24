@@ -20,7 +20,6 @@ viber机器人, viber逆向, viber hook, viber脚本 发消息, 拦截消息
 
 # 联系方式
 
-飞机✈️: feifeilove888888
 
 wx: love111_feifeifei
 
